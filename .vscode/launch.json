@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SipApplication<sip>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.korigin.sip.SipApplication",
+            "projectName": "sip",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
