@@ -36,8 +36,8 @@
 
 ## **기술 스택**
 
-- 프론트엔드: HTML, CSS, JavaScript, Vue.js
-- 백엔드: java , springboot + jpa
+- 프론트엔드: Vue.js
+- 백엔드: SpringBoot
 - 데이터베이스: MySQL
 
 ## **개발 계획**
