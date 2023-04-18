@@ -19,9 +19,9 @@ spring:
   profiles: env
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://sip.cigugxo5zmne.ap-northeast-2.rds.amazonaws.com:3306/sip
-    username: root
-    password: '12341234'
+    url: 
+    username: 
+    password: 
   jpa:
     database: mysql
     generate-ddl: true
