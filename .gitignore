@@ -1,0 +1,21 @@
+# Claude
+.claude/
+
+# 환경변수
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Server
+SERVER/build/
+SERVER/.gradle/
+SERVER/out/
+
+# Frontend
+VIEW/node_modules/
+VIEW/dist/
+
+# Certbot (로컬 전용)
+certbot/
